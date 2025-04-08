@@ -1,0 +1,11 @@
+[workspace]
+authors = ["Dennis Ignacio <dsvignacio@gmail.com>"]
+channels = ["conda-forge"]
+name = "WebXR"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = ">=3.13.2,<3.14"
